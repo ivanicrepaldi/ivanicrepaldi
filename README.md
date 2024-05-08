@@ -10,6 +10,7 @@ alurastartestudante@email.com
 
 @alurastartestudante
 
+
 function setup() {
   // cria uma tela de 400px de largura por 400px de altura
   createCanvas(400, 400);
