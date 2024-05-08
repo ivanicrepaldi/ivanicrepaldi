@@ -11,21 +11,6 @@ alurastartestudante@email.com
 @alurastartestudante
 
 
-function setup() {
-  // cria uma tela de 400px de largura por 400px de altura
-  createCanvas(400, 400);
-  background("white")
-}
-
-
-function draw() {
-    stroke("blue")
-    fill("red");
-  
-    if (mouseIsPressed);
-    rect(mouseX, mouseY, 20, 35);
-}
-
 
 <!--
 **ivanicrepaldi/ivanicrepaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
